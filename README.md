@@ -5,7 +5,7 @@ data from the UKAEA [public data store](https://mastapp.site/index.html).
 ## Projects
 
 ### 1. Radiated Power Notebook
-Time plots of key parameters across single shots. Analysis of radiated power fraction 
+Time plots of key parameters across single shots. Analysis of radiated power 
 across multiple shots. Includes instability detection using statistical thresholding, 
 comparison of stable vs unstable shots, and multi-shot scatter analysis between several 
 parameters.
