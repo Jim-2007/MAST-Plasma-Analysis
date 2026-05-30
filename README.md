@@ -3,8 +3,9 @@ Analysis of publicly available MAST (Mega Ampere Spherical Tokamak) level 2
 data from the UKAEA [public data store](https://mastapp.site/index.html).
 
 ## Projects
-This is my exploration of the MAST public dataset, where I explore different methods
-of analysing and hopefully improve my understanding following each project. 
+This is my analysis of the MAST public dataset, where I explore data handling methods.
+I hope to improve my understanding of data analysis as well as fusion physics
+following each project. 
 
 ### 1. Radiated Power Notebook
 Plots profiles of key parameters across single shots. Analysis of radiated power 
