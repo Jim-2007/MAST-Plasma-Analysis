@@ -15,6 +15,9 @@ Analysis of energy confinement time across MAST shots. Includes validation again
 the ITER-89P empirical scaling law, multi-parameter linear regression with VIF 
 analysis, and Random Forest regression analysis.
 
+### 3. Plasma Drop Prediction
+Trains Random Forest and LightGBM classifiers to predict plasma current disruptions in MAST shots 18500-30500. Extracts rolling window features from key parameters (ip, wmhd, q95, li, vloop, beta) and labels timesteps where plasma current drops by >40% within 50ms.
+
 ## Data
 Data is accessed from the MAST public S3 bucket at [store](https://mastapp.site/index.html). 
 

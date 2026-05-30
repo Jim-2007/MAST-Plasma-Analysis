@@ -5,4 +5,4 @@ __pycache__/
 .ipynb_checkpoints/
 backup.ipynb
 *.csv
-project3.ipynb
+mast_profiles_ML_data/
