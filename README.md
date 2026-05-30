@@ -20,6 +20,7 @@ Trains Random Forest and LightGBM classifiers to predict plasma current disrupti
 
 ## Data
 Data is accessed from the MAST public S3 bucket at [store](https://mastapp.site/index.html). 
+Experiment lists can be found [here](https://opendata.ukaea.uk/mast-data/).
 
 ## Requirements
 - zarr
@@ -28,9 +29,13 @@ Data is accessed from the MAST public S3 bucket at [store](https://mastapp.site/
 - pandas
 - matplotlib
 - scipy
-- sklearn
+- scikit-learn
 - seaborn
 - statsmodels
+- lightgbm
+- fastparquet
+- fsspec
+- s3fs
 
 ## Usage
 Run notebooks in order. Data is cached locally in `.cache/` on first run.
