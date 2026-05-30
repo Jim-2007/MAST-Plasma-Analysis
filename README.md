@@ -1,3 +1,5 @@
+GitHub not rendering notebook, use [nbi viewer](https://nbviewer.org/)
+
 # MAST Tokamak Plasma Analysis
 Analysis of publicly available MAST (Mega Ampere Spherical Tokamak) level 2 
 data from the UKAEA [public data store](https://mastapp.site/index.html).
